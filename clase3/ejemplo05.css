@@ -1,0 +1,38 @@
+ h1{
+    color: blue;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-weight: bold; */
+    font-style: italic; /* comentario en CSS*/
+    color: red;
+}
+
+
+.destacados{
+    color: green;
+    font-size: 22px;
+    border: 1px solid orange;
+}
+
+.descatado2{
+    color: purple;
+    font-weight: bold;
+}
+
+
+#testimonios{
+    width: 300px;
+    height: 400px;
+    background-color: yellow;
+    text-align: center;
+    border: 2px dashed red;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-left: 50px;
+}
+
+#testimonios p{
+    color: green;
+}
